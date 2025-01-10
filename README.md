@@ -1,4 +1,4 @@
-<img src="./[https://github.com/ubaidzia1086/Madhav_Store/blob/main/Madhav%20Store.jpg">
+<img src="./https://github.com/ubaidzia1086/Madhav_Store/blob/main/Madhav%20Store.jpg">
 
 Project Objective:
 
