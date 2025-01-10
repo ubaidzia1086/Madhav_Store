@@ -1,9 +1,11 @@
 ![Madhav Store](https://github.com/ubaidzia1086/Madhav_Store/blob/main/Madhav%20Store.jpg?raw=true)
 
 **Project Objective:**
+
 The owner of Madhav store want us to help them create a dashboard to track and analyze their online sales across India.
 
 **Dataset Description:**
+
 The Dataset contains information on various category and sub-category and their details.
 
 File Type: CSV
